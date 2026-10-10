@@ -1,0 +1,13 @@
+# Secret API Keys
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Local Vector Database & Caches
+chroma_db/
+__pycache__/
+
+# Mac OS Files
+.DS_Store
