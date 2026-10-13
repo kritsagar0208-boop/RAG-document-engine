@@ -1,13 +1,2 @@
-# Secret API Keys
-.env
-
-# Virtual Environment
-venv/
-env/
-
-# Local Vector Database & Caches
-chroma_db/
-__pycache__/
-
-# Mac OS Files
-.DS_Store
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
